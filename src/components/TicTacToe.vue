@@ -54,9 +54,9 @@ export default {
     },
     cellText(value) {
       if (value == -1) {
-        return "✔";
+        return "◯";
       } else if (value == 1) {
-        return "✘";
+        return "✕";
       } else {
         return "";
       }
