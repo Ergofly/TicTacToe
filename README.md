@@ -38,4 +38,6 @@ homework_1 Ai course aaaaaaaaaaaat XDU.
 
 ### Demo
 
+[Demo](https://ergofly.github.io/tic-tac-toe-demo/)
+
 ![](https://gitee.com/ergofly/image-bed/raw/master/Images/2022-11-08-19:59:11_des.gif)
