@@ -28,16 +28,12 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-
 ### Introduction
 
 homework_1 Ai course aaaaaaaaaaaat XDU.
-
-
 
 ### Demo
 
 [Demo](https://ergofly.github.io/TicTacToe/)
 
-![](https://gitee.com/ergofly/image-bed/raw/master/Images/2022-11-08-19:59:11_des.gif)
+![](https://gitee.com/ergofly/image-bed/raw/master/Images/2022-11-10-15:47:52_jing.gif)
