@@ -36,4 +36,4 @@ homework_1 Ai course aaaaaaaaaaaat XDU.
 
 [Demo](https://ergofly.github.io/TicTacToe/)
 
-![](https://gitee.com/ergofly/image-bed/raw/master/Images/2022-11-10-15:47:52_jing.gif)
+<img title="" src="https://gitee.com/ergofly/image-bed/raw/master/Images/2022-11-10-15:56:42_jing.gif" alt="" data-align="center">
