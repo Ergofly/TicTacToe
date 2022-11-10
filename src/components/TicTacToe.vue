@@ -19,8 +19,8 @@
       </div>
     </div>
     <div id="footer">
-      <div id="footer-item"><span style="font-family:arial;font-size: 0.12rem">Copyright © 2022 Wenjie Sha<br/><span
-          style="font-size: 0.06rem">Designed For AI Course<br/>with ❤️ at Xidian University</span></span></div>
+      <div id="footer-item"><span style="font-family:arial;font-size: 2vh">Copyright © 2022 Wenjie Sha<br/><span
+          style="font-size: 60%">Designed For AI Course<br/>with ❤️ at Xidian University</span></span></div>
     </div>
   </div>
 </template>
@@ -324,6 +324,7 @@ export default {
   font-size: 0.2rem;
   border-radius: 10px;
   width: 20%;
+  height: 70%;
 }
 
 .button p {
@@ -333,7 +334,7 @@ export default {
 
 .win {
   background-color: orangered;
-  height: 70%;
+  height: 80%;
   width: 20%;
   display: flex;
   justify-content: center;
@@ -351,7 +352,7 @@ export default {
   justify-content: center;
   align-items: center;
   color: white;
-  font-size: 0.3rem;
+  font-size: 0.4rem;
   border-radius: 10px;
 }
 
