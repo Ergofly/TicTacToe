@@ -19,8 +19,8 @@
       </div>
     </div>
     <div id="footer">
-      <div id="footer-item"><span style="font-family:arial;font-size: 120%">Copyright © 2022 Wenjie Sha<br/><span
-          style="font-size: 60%">Designed For AI Course<br/>with ❤️ at Xidian University</span></span></div>
+      <div id="footer-item"><span style="font-family:arial;font-size: 0.12rem">Copyright © 2022 Wenjie Sha<br/><span
+          style="font-size: 0.06rem">Designed For AI Course<br/>with ❤️ at Xidian University</span></span></div>
     </div>
   </div>
 </template>
@@ -266,8 +266,8 @@ export default {
 }
 
 #table {
-  height: 55vh;
-  width: 55vh;
+  height: 52vh;
+  width: 52vh;
 }
 
 .checkerboard {
@@ -284,7 +284,7 @@ export default {
   border-top: 5px solid white;
   border-left: 5px solid white;
   text-align: center;
-  font-size: 800%;
+  font-size: 10vh;
   border-radius: 10px;
 }
 
@@ -321,7 +321,7 @@ export default {
   color: white;
   text-align: center;
   text-decoration: none;
-  font-size: 200%;
+  font-size: 0.2rem;
   border-radius: 10px;
   width: 20%;
 }
@@ -339,19 +339,19 @@ export default {
   justify-content: center;
   align-items: center;
   color: cadetblue;
-  font-size: 400%;
+  font-size: 0.4rem;
   border-radius: 10px;
 }
 
 .title {
   background-color: deepskyblue;
-  height: 70%;
+  height: 80%;
   width: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
-  font-size: 300%;
+  font-size: 0.3rem;
   border-radius: 10px;
 }
 
